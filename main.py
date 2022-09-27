@@ -9,6 +9,8 @@ import os
 import logging 
 from collections import defaultdict
 
+
+#un commento
 class IMDBGraph:
     '''
     This class use IM Data base for buld graph,
