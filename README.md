@@ -13,7 +13,7 @@ Pitt, Brad      Voyage of Time (2014)<br />
 Pitt, Brad      Weddings of a Lifetime (1995) (TV)<br />
 
 The name of a movie contains also the year in which it has been done (inside the parentheses) and contains “(TV)” if it is a television product.
-<br />
+
 GRAPH: build the following graph using NetworkX: G is a Bipartite graph, where nodes are actors/actresses and movies. There is an edge between an actor/actress A and a movie M if A participated in M .<b />
 
 1-Considering only the movies up to year x with x in {1930,1940,1950,1960,1970,1980,1990,2000,2010,2020}, write a function which, given x, computes:<br />
